@@ -52,7 +52,7 @@ The goal of this task is to perform **feature engineering** by encoding categori
 ```
 📁 Task-4-Encoding-Scaling
 │
-├── AI_ML_Task4_Encoding_Scaling_Outstanding.ipynb
+├── Task4_Encoding_Scaling.ipynb
 ├── adult.csv
 ├── adult_income_processed.csv
 └── README.md
